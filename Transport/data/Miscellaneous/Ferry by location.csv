@@ -1,0 +1,38 @@
+﻿MST patronage by route and fare type,,
+Route,Fare Type,Patronage
+F1 Manly,Adult,"41,219"
+,Concession,"11,792"
+,Employee,312
+,PET,"1,095"
+,Student,5
+F2 Taronga Zoo,Adult,"11,440"
+,Concession,"4,377"
+,Employee,58
+,PET,335
+,Student,1
+F3 Parramatta River,Adult,"21,055"
+,Concession,"7,998"
+,Employee,97
+,PET,544
+,Student,1
+F4 Darling Harbour,Adult,"22,920"
+,Concession,"8,697"
+,Employee,104
+,PET,580
+,Student,1
+F5 Neutral Bay,Adult,"5,396"
+,Concession,"2,065"
+,Employee,27
+,PET,158
+,Student,0
+F6 Mosman Bay,Adult,"6,619"
+,Concession,"2,532"
+,Employee,34
+,PET,194
+,Student,1
+F7 Eastern Suburbs,Adult,"15,829"
+,Concession,"6,056"
+,Employee,80
+,PET,464
+,Student,1
+Grand Total,,"172,089"

@@ -1,0 +1,43 @@
+Australian Bureau of Statistics
+
+"2016 Census - Counting Employed Persons, Place of Work (POW)"
+"Main Statistical Area Structure (Main ASGS) (UR) by INDP - 1 Digit Level by MTW15P Method of Travel to Work (15 travel modes)"
+"Counting: Persons Aged 15 Years and Over Place of Work"
+
+Filters:
+"Default Summation","Persons Aged 15 Years and Over Place of Work"
+
+" UR - Sydney (SA2)"
+"MTW15P Method of Travel to Work (15 travel modes)","Train","Bus","Ferry","Tram","Taxi","Car, as driver","Car, as passenger","Truck","Motorbike/scooter","Bicycle","Walked only","Other Mode","Worked at home","Did not go to work","Not stated","Not applicable","Total",
+"INDP - 1 Digit Level",
+"Agriculture, Forestry and Fishing",380,175,15,3,6,4596,549,194,38,34,504,118,1634,496,64,0,8807,
+"Mining",628,378,54,8,18,1913,117,36,18,33,132,93,182,369,32,0,4007,
+"Financial and Insurance Services",55879,22100,2729,385,550,32140,3006,44,1004,1480,5704,470,6466,7763,429,0,140141,
+"Rental, Hiring and Real Estate Services",6194,2584,332,52,76,24132,1070,167,222,183,1362,146,2771,2305,156,0,41750,
+"Professional, Scientific and Technical Services",63104,23668,2474,623,1070,68137,4589,114,1941,2665,10757,1163,24190,10919,763,0,216192,
+"Administrative and Support Services",16953,5929,451,100,207,34595,3893,693,401,422,2727,494,4626,4414,507,0,76414,
+"Health Care and Social Assistance",27465,11557,230,118,472,143755,8919,69,816,1255,11361,784,7499,26448,1177,0,241942,
+"Manufacturing",9308,3130,110,53,203,89527,5641,625,842,738,2367,418,3363,5316,460,0,122104,
+"Construction",13795,3690,240,120,143,118720,8429,7900,790,547,1703,1165,6365,6009,1005,0,170607,
+"Retail Trade",25137,12253,184,143,300,105729,10998,423,1041,944,10268,531,4268,23143,1045,0,196406,
+"Electricity, Gas, Water and Waste Services",2506,701,60,24,15,10263,404,487,120,165,267,59,297,771,64,0,16201,
+"Wholesale Trade",7260,2690,87,57,200,54710,2764,643,506,411,1688,340,3162,3285,234,0,78035,
+"Accommodation and Food Services",26521,12040,232,273,375,53078,11185,104,1249,1064,13878,455,1596,18267,915,0,141247,
+"Transport, Postal and Warehousing",10632,2898,158,72,1568,70788,3034,4547,1173,682,2194,1131,2063,7708,685,0,109341,
+"Information Media and Telecommunications",16765,6316,366,443,318,22390,1656,138,747,860,2965,315,3696,3549,217,0,60737,
+"Public Administration and Safety",26638,7766,398,179,181,56787,2687,205,1240,1331,4330,1269,1208,11012,504,0,115737,
+"Education and Training",20384,8722,231,191,206,105344,5153,46,859,1717,8003,422,5075,15070,628,0,172056,
+"Arts and Recreation Services",5251,1964,159,162,102,16243,1475,35,367,435,1958,194,2937,4354,187,0,35829,
+"Other Services",8045,3076,103,46,107,45930,3006,525,469,470,3591,406,3747,5116,391,0,75029,
+"Inadequately described",10528,3701,215,95,235,44229,3566,889,488,560,2685,882,6014,3831,1729,0,79645,
+"Not stated",4706,1328,48,28,107,11563,1196,229,124,125,782,263,642,1418,8338,0,30899,
+"Not applicable",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1523268,1523268,
+"Total",358098,136672,8875,3183,6465,1114562,83349,18107,14437,16123,89245,11127,91792,161550,19528,1523268,3656387,
+
+"Data Source: Census of Population and Housing, 2016, TableBuilder"
+
+"INFO","Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells."
+
+
+"Copyright Commonwealth of Australia, 2018, see abs.gov.au/copyright"
+"ABS data licensed under Creative Commons, see abs.gov.au/ccby"

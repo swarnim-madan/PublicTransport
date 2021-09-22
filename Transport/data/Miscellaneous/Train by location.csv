@@ -1,0 +1,27 @@
+﻿"MST patronage by line, fare type and ticke type",,,,,
+Line,Fare Type,Single,Return,ATTR,Grand Total
+Blue Mountains,Adult,"4,352","3,154",49,"7,555"
+,Concession,"2,903","3,772",,"6,675"
+Central Coast & Newcastle,Adult,"20,104","15,910",106,"36,120"
+,Concession,"12,677","13,040",,"25,717"
+Hunter,Adult,"1,187",606,2,"1,795"
+,Concession,"1,106",958,,"2,064"
+South Coast,Adult,"8,555","5,898",177,"14,630"
+,Concession,"7,288","6,770",,"14,058"
+Southern Highlands,Adult,"1,888","1,120",38,"3,046"
+,Concession,"1,542","1,918",,"3,460"
+"T1 - North Shore, Northern & Western",Adult,"85,536","91,766",86,"177,388"
+,Concession,"70,037","80,392",,"150,429"
+"T2 - Airport, Inner West & South",Adult,"240,306","121,652",,"361,958"
+,Concession,"115,345","90,038",,"205,383"
+T3 - Bankstown,Adult,"13,153","15,640",,"28,793"
+,Concession,"12,395","17,262",,"29,657"
+T4 - Eastern Suburbs & Illawarra,Adult,"41,651","42,316",,"83,967"
+,Concession,"27,437","32,844",,"60,281"
+T6 - Carlingford,Adult,377,176,9,562
+,Concession,258,138,,396
+T7- Olympic Park,Adult,"1,644",926,,"2,570"
+,Concession,744,316,,"1,060"
+Grand Total,,"670,485","546,612",467,"1,217,564"
+,,,,,
+* ATTR - Authority to Travel tickets,,,,,

@@ -1,0 +1,32 @@
+Australian Bureau of Statistics
+
+"2016 Census - Counting Employed Persons, Place of Work (POW)"
+"Main Statistical Area Structure (Main ASGS) (UR) by OCCP - 1 Digit Level by MTW15P Method of Travel to Work (15 travel modes)"
+"Counting: Persons Aged 15 Years and Over Place of Work"
+
+Filters:
+"Default Summation","Persons Aged 15 Years and Over Place of Work"
+
+" UR - Sydney (SA2)"
+"MTW15P Method of Travel to Work (15 travel modes)","Train","Bus","Ferry","Tram","Taxi","Car, as driver","Car, as passenger","Truck","Motorbike/scooter","Bicycle","Walked only","Other Mode","Worked at home","Did not go to work","Not stated","Not applicable","Total",
+"OCCP - 1 Digit Level",
+"Managers",44277,19574,2328,571,1285,168515,7456,1861,2554,2565,11841,1714,16902,13356,1317,0,296120,
+"Professionals",128047,48054,4291,1237,1926,257432,12738,153,4203,7048,26559,2244,35077,40465,2424,0,571896,
+"Technicians and Trades Workers",26698,7691,226,211,285,160718,10205,5336,2119,1459,7181,1847,5513,12069,1908,0,243453,
+"Community and Personal Service Workers",26238,11621,179,289,517,103105,9044,57,1321,1187,12912,1248,5994,25598,1585,0,200893,
+"Clerical and Administrative Workers",68501,23484,1135,455,418,147703,10325,710,1381,1281,10303,1270,19484,23942,1656,0,312051,
+"Sales Workers",27455,13400,424,205,273,93139,12355,308,765,674,9936,562,4770,24544,1381,0,190199,
+"Machinery Operators and Drivers",6528,2583,35,34,1304,84295,4763,6634,1115,715,2347,870,663,6591,1192,0,119666,
+"Labourers",23419,8002,71,118,337,82246,14964,2797,747,929,6897,803,1341,12604,1722,0,156993,
+"Inadequately described",4498,1515,159,43,77,11765,872,152,178,189,861,445,1774,1589,746,0,24862,
+"Not stated",2434,751,36,17,44,5629,626,96,64,72,407,122,277,795,5601,0,16987,
+"Not applicable",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1523268,1523268,
+"Total",358098,136672,8875,3183,6465,1114562,83349,18107,14437,16123,89245,11127,91792,161550,19528,1523268,3656387,
+
+"Data Source: Census of Population and Housing, 2016, TableBuilder"
+
+"INFO","Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells."
+
+
+"Copyright Commonwealth of Australia, 2018, see abs.gov.au/copyright"
+"ABS data licensed under Creative Commons, see abs.gov.au/ccby"
